@@ -1,6 +1,6 @@
 
 
-# Jim
+# King James Bible by Jim
 
 An Offline Pocket Bible & Church App to study God's Word and have more engagement with it.
 
@@ -47,14 +47,6 @@ Assuming Flutter is installed and setup on your device (If not, follow the steps
 ```
 flutter run
 ```
-
-## TestFlight & Google Play Beta
-
-If you would like to use the app via TestFlight or Google Play Beta, you can download the apps with the following links below:
-
-TestFlight: [https://testflight.apple.com/join/7vWnoWaD](https://testflight.apple.com/join/7vWnoWaD)
-
-Google Play Beta: [https://play.google.com/store/apps/details?id=com.elisha.app](https://play.google.com/store/apps/details?id=com.elisha.app)
 
 ## Screenshots
 
