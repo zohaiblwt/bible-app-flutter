@@ -1,6 +1,6 @@
-<img src="https://github.com/31Carlton7/elisha/blob/master/assets/app_icons/banner.png"> </img>
 
-# Elisha
+
+# Jim
 
 An Offline Pocket Bible & Church App to study God's Word and have more engagement with it.
 
@@ -14,7 +14,7 @@ An Offline Pocket Bible & Church App to study God's Word and have more engagemen
 
 ## About
 
-Elisha is a simple Bible app that is focused on personal use. I made this app in hopes to get people who aren't connected to God or who are, to read/study the Bible in a very simple format and manner that is more or less intended towards younger crowds, however this app is very useable for older crowds as well. No matter if you read 10 chapters a day or read just one verse, that is all it takes to connect with God and I hope this app can help anyone who uses it do too 🙏🏾.
+King James Bible is a simple Bible app that is focused on personal use. I made this app in hopes to get people who aren't connected to God or who are, to read/study the Bible in a very simple format and manner that is more or less intended towards younger crowds, however this app is very useable for older crowds as well. No matter if you read 10 chapters a day or read just one verse, that is all it takes to connect with God and I hope this app can help anyone who uses it do too 🙏🏾.
 
 When I was thinking about the first app I would make and publish on the app store, I thought carefully. I believed that God gave me the knowledge to be able to program/code in general so why not make my first app, an app to honor him and show thanks to him.
 
@@ -88,17 +88,6 @@ Google Play Beta: [https://play.google.com/store/apps/details?id=com.elisha.app]
   
 </table>
 
-## Featured In
 
-- [FlutterAwesome](https://flutterawesome.com/pocket-bible-church-app-built-with-flutter/)
-
-## Socials
-
-If you have any questions, you can reach me here:
-
-- Email: carltonaikins7@gmail.com
-- LinkedIn: [Carlton Aikins](https://www.linkedin.com/in/carlton-aikins-a34a14226)
-- Twitter: [@31carlton7](https://www.twitter.com/31carlton7)
-- Instagram: [@31carlton7](https://www.instagram.com/31carlton7/)
 
 In God we trust 🙏🏾
